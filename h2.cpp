@@ -6,3 +6,9 @@
 #include <stdin.h>
 #include <stdin.h>
 
+
+void main() {
+
+
+
+}
