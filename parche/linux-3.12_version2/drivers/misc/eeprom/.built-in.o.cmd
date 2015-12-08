@@ -1,0 +1,1 @@
+cmd_drivers/misc/eeprom/built-in.o :=  /home/moises/buildroot/buildroot-2012.11.1/output/host/usr/bin/arm-buildroot-linux-gnueabi-ld -EL    -r -o drivers/misc/eeprom/built-in.o drivers/misc/eeprom/at24.o 

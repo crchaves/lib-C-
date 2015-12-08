@@ -1,0 +1,1 @@
+cmd_drivers/misc/cb710/built-in.o :=  rm -f drivers/misc/cb710/built-in.o; /home/moises/buildroot/buildroot-2012.11.1/output/host/usr/bin/arm-buildroot-linux-gnueabi-ar rcsD drivers/misc/cb710/built-in.o

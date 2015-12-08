@@ -1,0 +1,1 @@
+cmd_drivers/misc/lis3lv02d/built-in.o :=  rm -f drivers/misc/lis3lv02d/built-in.o; /home/moises/buildroot/buildroot-2012.11.1/output/host/usr/bin/arm-buildroot-linux-gnueabi-ar rcsD drivers/misc/lis3lv02d/built-in.o
